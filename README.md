@@ -23,7 +23,7 @@
   
 💻 Below is the gif showing the functionality of the application:
 
-C:\Users\grofb\desktop\Operational-Relational-Mapping\Assets\Screencastify May 15, 2021 11_44 PM.webm
+https://drive.google.com/file/d/1XucDGWDzkFx-4mA7pyEKq5hyfl4lExGB/view
   
 [Npm Start](./assets/Picture1.png)
 
